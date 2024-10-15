@@ -48,8 +48,7 @@
 
 <code><img height="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/emacs-icon.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/vim_logo_icon_169260.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UTnffleBdTfV3LPp-nDgVJsO9ReMlDW-6xIaUX5VqnzvrdT-j0gh7kiRGPx4nFeImT8&usqp=CAU"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/6/150/png-transparent-freebsd-ports-bsd-daemon-trueos-boot-miscellaneous-orange-accessories-thumbnail.png"></code>
+<code><img height="20" src="https://iconape.com/wp-content/png_logo_vector/qt.png"></code>
 
 
 
