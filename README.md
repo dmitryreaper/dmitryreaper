@@ -15,9 +15,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitryreaper&hide=rich%20text%20format,jupyter%20notebook,scheme&layout=compact&langs_count=8&custom_title)" alt="dmitryreaper"/>
 
-- I like to study the structure of compilers <img align="" src="https://github.com/dastergon/awesome-sre/blob/e91ef69aa52129662164e54cc22272bc90e9b636/awesome-sre-logo.svg" height="25px" width="25px">
-- My favorite operating system is OpenBSD  <img align="" src="https://github.com/dmitryreaper/dmitryreaper/res/openbsd-icon.svg" height="25px" width="25px">
-- Favorite genre of music is blackmetal <img align="" src="https://github.com/dmitryreaper/dmitryreaper/res/blackmetal-icon.jpg" height="25px" width="25px">
+- I like to study the structure of compilers <img align="" src="https://llvm.org/img/DragonFull.png" height="25px" width="25px">
+- My favorite operating system is OpenBSD  <img align="" src="https://camo.githubusercontent.com/0245ff1eb09f71dd1b76f30b924f47947a6a54f85a271ab70dc6e5dc0efd6ec3/68747470733a2f2f7374657068616e652d6875632e6e65742f696d672f45424e482f4f4253442f50756666792e737667" height="25px" width="25px">
+- Favorite genre of music is blackmetal <img align="" src="https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1050567342W10000H9933/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/black-metal-icon-sticker.jpg" height="25px" width="25px">
 - 
 - Believe that C++ is the best language <img align="" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" height="25px" width="25px">
 - I like hard working <img align="" src="https://github.com/dmitryreaper/dmitryreaper/res/doomemacs-icon.png" height="25px" width="25px">
