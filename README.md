@@ -17,8 +17,8 @@
 
 - I like to study the structure of compilers <img align="" src="https://llvm.org/img/DragonFull.png" height="25px" width="25px">
 - My favorite operating system is OpenBSD  <img align="" src="https://camo.githubusercontent.com/0245ff1eb09f71dd1b76f30b924f47947a6a54f85a271ab70dc6e5dc0efd6ec3/68747470733a2f2f7374657068616e652d6875632e6e65742f696d672f45424e482f4f4253442f50756666792e737667" height="25px" width="25px">
-- Favorite genre of music is blackmetal <img align="" src="https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1050567342W10000H9933/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/black-metal-icon-sticker.jpg" height="25px" width="25px">
-- 
+- Favorite genre of music is blackmetal <img align="" src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T560A2PA1090PT17X1Y5D13142610W17797H17671Cx000000:xFFFFFF/views/1,width=550,height=550,appearanceId=2,backgroundColor=000000,noPt=true/black-metal-icon-baby-organic-kurzarmbody.jpg" height="25px" width="25px">
+- I like to understand the device of various operating systems <img align="" src="https://cdn-icons-png.flaticon.com/512/6303/6303082.png" height="25px" width="25px">
 - Believe that C++ is the best language <img align="" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" height="25px" width="25px">
 - I like hard working <img align="" src="https://github.com/dmitryreaper/dmitryreaper/res/doomemacs-icon.png" height="25px" width="25px">
 
@@ -43,9 +43,13 @@
 
 **Development environments that I use:**
 
-<code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/visual-studio-code/emacs.png"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg"></code>
-<code><img height="20" src="https://github.com/dmitryreaper/dmitryreaper/res/qt-icon.png"></code>
+<code><img height="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/emacs-icon.png"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/vim_logo_icon_169260.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UTnffleBdTfV3LPp-nDgVJsO9ReMlDW-6xIaUX5VqnzvrdT-j0gh7kiRGPx4nFeImT8&usqp=CAU"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/6/150/png-transparent-freebsd-ports-bsd-daemon-trueos-boot-miscellaneous-orange-accessories-thumbnail.png"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/0245ff1eb09f71dd1b76f30b924f47947a6a54f85a271ab70dc6e5dc0efd6ec3/68747470733a2f2f7374657068616e652d6875632e6e65742f696d672f45424e482f4f4253442f50756666792e737667"></code>
+<code><img height="20" src="https://freesvg.org/img/Pinguino-Linux.png"></code>
+
 
 
 
