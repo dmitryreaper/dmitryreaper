@@ -17,16 +17,19 @@
 
 - I like to study the structure of compilers <img align="" src="https://github.com/dastergon/awesome-sre/blob/e91ef69aa52129662164e54cc22272bc90e9b636/awesome-sre-logo.svg" height="25px" width="25px">
 - My favorite operating system is OpenBSD  <img align="" src="https://github.com/dmitryreaper/dmitryreaper/res/openbsd-icon.svg" height="25px" width="25px">
-- Favorite genre of music is blackmetal <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/headphones.png" height="25px" width="25px">
+- Favorite genre of music is blackmetal <img align="" src="https://github.com/dmitryreaper/dmitryreaper/res/blackmetal-icon.jpg" height="25px" width="25px">
 - 
 - Believe that C++ is the best language <img align="" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" height="25px" width="25px">
-- I'm IT punk <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/6e211085e3525c98d4ae9f2431d7034ce2cac3fb/res/programmer.png" height="25px" width="25px">
+- I like hard working <img align="" src="https://github.com/dmitryreaper/dmitryreaper/res/doomemacs-icon.png" height="25px" width="25px">
 
 
 ---
 <p>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="320" />
  </p>
+
+
+
 💬 Do you have any questions for me? Look for me in the social networks above  
 
 **Languages and tools:**  
@@ -42,7 +45,7 @@
 
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/visual-studio-code/emacs.png"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/pycharm/qt.png"></code>
+<code><img height="20" src="https://github.com/dmitryreaper/dmitryreaper/res/qt-icon.png"></code>
 
 
 
